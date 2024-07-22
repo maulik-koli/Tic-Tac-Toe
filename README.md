@@ -26,25 +26,26 @@ This is a simple Tic Tac Toe game made with Vite and React, using state manageme
 To get started with the project, follow these steps:
 
 1. *Clone the repository:*
-    sh
-    git clone https://github.com/your-username/tic-tac-toe-vite.git
-    cd tic-tac-toe-vite
+    ```sh
+    git clone https://github.com/maulik-koli/Tic-Tac-Toe
+    cd tic-tac-toe
+    ```
     
 
 2. *Install dependencies:*
-    sh
+    ```sh
     npm install
-    
+    ```
 
 3. *Start the development server:*
-    sh
+    ```sh
     npm run dev
-    
+    ```
 
 4. *Open the game in your browser:*
-    sh
-     http://localhost:5173
-    
+    ```sh
+    http://localhost:5173
+    ```
 
 ## Components
 
