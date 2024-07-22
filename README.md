@@ -56,6 +56,7 @@ To get started with the project, follow these steps:
 
 ## Project Structure
 
+```
 tic-tac-toe/
 ├── public/
 │   ├── bg-pattern-dark.png
@@ -76,6 +77,7 @@ tic-tac-toe/
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
+```
 
 ## Working
 
